@@ -57,5 +57,5 @@ Follow these steps to set up and run the application on your local machine.
 ## 📞 Contact
 
 Neeraj Kandpal <br>
-LinkedIn : linkedin.com/in/neeraj-kandpal/ <br>
+LinkedIn : [linkedin.com/in/neeraj-kandpal/](https://www.linkedin.com/in/neeraj-kandpal/) <br>
 Email : neerajkandpal265@gmail.com
